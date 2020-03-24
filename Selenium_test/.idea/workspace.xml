@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c820f082-95a9-475e-9097-f8833959924c" name="Default Changelist" comment="" />
+    <list default="true" id="c820f082-95a9-475e-9097-f8833959924c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Empty_password_submit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Empty_pass_submit.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Empty_password_submit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Empty_pass_submit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Empty_password_submit.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dell\Desktop\Netguru\Selenium_test\Empty_pass_submit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +126,7 @@
         <item itemvalue="Python tests.Unittests in netguru_def.py" />
         <item itemvalue="Python tests.Unittests for TUI_def.SignIn.test_empty_form_submitted" />
         <item itemvalue="Python.Empty_form_submit" />
-        <item itemvalue="Python.Empty_password_submit" />
+        <item itemvalue="Python.Empty_pass_submit" />
       </list>
     </recent_temporary>
   </component>

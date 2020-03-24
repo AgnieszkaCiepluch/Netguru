@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c820f082-95a9-475e-9097-f8833959924c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZHYi8CrobkbFnJTVhdeHh5L3J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/nauka/Selenium" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\nauka\Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for TUI_def.SignIn">
+    <configuration name="Empty_form_submit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Empty_form_submit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Empty_password_submit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Empty_password_submit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TUI_def.SignIn" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TUI_def.SignIn&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TUI_def.SignIn.test_empty_form_submitted" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TUI_def.SignIn.test_empty_form_submitted&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in netguru_def.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="lesson1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/nauka/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$USER_HOME$/PycharmProjects/nauka/Selenium/netguru_def.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for TUI_def.SignIn" />
+        <item itemvalue="Python tests.Unittests in netguru_def.py" />
+        <item itemvalue="Python tests.Unittests for TUI_def.SignIn.test_empty_form_submitted" />
+        <item itemvalue="Python.Empty_form_submit" />
+        <item itemvalue="Python.Empty_password_submit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c820f082-95a9-475e-9097-f8833959924c" name="Default Changelist" comment="" />
+      <created>1585039746012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585039746012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="127" key="FileChooserDialogImpl" timestamp="1585039844449">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="127" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585039844449" />
+    <state width="1277" height="241" key="GridCell.Tab.0.bottom" timestamp="1585050933901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1277" height="241" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585050933901" />
+    <state width="1277" height="241" key="GridCell.Tab.0.center" timestamp="1585050933901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1277" height="241" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585050933901" />
+    <state width="1277" height="241" key="GridCell.Tab.0.left" timestamp="1585050933901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1277" height="241" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585050933901" />
+    <state width="1277" height="241" key="GridCell.Tab.0.right" timestamp="1585050933901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1277" height="241" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585050933901" />
+    <state x="386" y="117" width="607" height="536" key="find.popup" timestamp="1585048831187">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="386" y="117" width="607" height="536" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1585048831187" />
+    <state x="431" y="25" key="refactoring.ChangeSignatureDialog" timestamp="1585048700413">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="431" y="25" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1585048700413" />
+  </component>
+</project>
